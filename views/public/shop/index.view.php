@@ -137,7 +137,7 @@
 
                                     <?php endforeach; ?>
                                 <?php } else { ?>
-                                    <h1>No Products Found Nigaaaaaaaaaaaaaa</h1>
+                                    <h1>No Products Found</h1>
                                 <?php } ?>
                             </div>
                         </div>
